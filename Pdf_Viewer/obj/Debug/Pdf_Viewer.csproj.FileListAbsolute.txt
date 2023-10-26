@@ -1,0 +1,14 @@
+C:\Users\suren\Studies\sem7\C# and .NET\Project\Pdf_Viewer\Pdf_Viewer\bin\Debug\Pdf_Viewer.exe.config
+C:\Users\suren\Studies\sem7\C# and .NET\Project\Pdf_Viewer\Pdf_Viewer\bin\Debug\Pdf_Viewer.exe
+C:\Users\suren\Studies\sem7\C# and .NET\Project\Pdf_Viewer\Pdf_Viewer\bin\Debug\Pdf_Viewer.pdb
+C:\Users\suren\Studies\sem7\C# and .NET\Project\Pdf_Viewer\Pdf_Viewer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\suren\Studies\sem7\C# and .NET\Project\Pdf_Viewer\Pdf_Viewer\bin\Debug\itextsharp.dll
+C:\Users\suren\Studies\sem7\C# and .NET\Project\Pdf_Viewer\Pdf_Viewer\bin\Debug\itextsharp.xml
+C:\Users\suren\Studies\sem7\C# and .NET\Project\Pdf_Viewer\Pdf_Viewer\obj\Debug\Pdf_Viewer.csproj.AssemblyReference.cache
+C:\Users\suren\Studies\sem7\C# and .NET\Project\Pdf_Viewer\Pdf_Viewer\obj\Debug\Pdf_Viewer.Form1.resources
+C:\Users\suren\Studies\sem7\C# and .NET\Project\Pdf_Viewer\Pdf_Viewer\obj\Debug\Pdf_Viewer.Properties.Resources.resources
+C:\Users\suren\Studies\sem7\C# and .NET\Project\Pdf_Viewer\Pdf_Viewer\obj\Debug\Pdf_Viewer.csproj.GenerateResource.cache
+C:\Users\suren\Studies\sem7\C# and .NET\Project\Pdf_Viewer\Pdf_Viewer\obj\Debug\Pdf_Viewer.csproj.CoreCompileInputs.cache
+C:\Users\suren\Studies\sem7\C# and .NET\Project\Pdf_Viewer\Pdf_Viewer\obj\Debug\Pdf_Viewer.csproj.CopyComplete
+C:\Users\suren\Studies\sem7\C# and .NET\Project\Pdf_Viewer\Pdf_Viewer\obj\Debug\Pdf_Viewer.exe
+C:\Users\suren\Studies\sem7\C# and .NET\Project\Pdf_Viewer\Pdf_Viewer\obj\Debug\Pdf_Viewer.pdb
